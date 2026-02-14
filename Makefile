@@ -1,5 +1,5 @@
 # IP configuration
-IP := <fill_here>
+IP := <10.42.164.80>
 CXX = g++
 
 # DO NOT CHANGE BELOW THIS
