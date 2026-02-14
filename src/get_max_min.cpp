@@ -1,4 +1,4 @@
-#include <backtester.hpp>
+#include <iostream>
 
 // Returns max price for Event Window
 double Backtester::get_max_price(uint64_t t_ns) {
